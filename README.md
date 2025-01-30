@@ -1,2 +1,2 @@
 # mini-compiler
-minicompiler with flex &amp; Bison 
+mini_compiler with flex &amp; Bison 
