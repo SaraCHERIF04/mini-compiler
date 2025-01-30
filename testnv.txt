@@ -1,0 +1,48 @@
+Programme Exemple
+VAR {
+    CONST a = 17; 
+    int i,k;
+    CONST a = 17; 
+    float b; 
+    float b; 
+    int t[5];
+    /*hjjdjhgjg
+    dsbdskjh*/
+    int t1[-8];
+    CONST m= 10; 
+     
+    CONST m= 10;  
+    int i,k;
+    int v;
+    CONST j = (-10);    
+}
+BEGIN
+   
+    b = 10.2;
+    i= t[19];
+     i=b;
+    v=(-2);
+    a=15;
+    k=a;
+    if (b < a) {
+        k = 2/0;
+    } 
+    /*condition if 
+    boucle for 
+    */
+    if (b >= 10 && (a == 0) || (q!=d)) { 
+        b = b + 5;
+        for (i : 0 : 1 : 10) {
+          i = i + 2 * 10+k /p-10;
+          
+        }
+      }
+    for (i : 0 : 1 : 10) {
+        i = i + 2;
+    }
+     While ( a < 20) {
+               i = i + 1;
+           }
+    readln (10);
+    writeln (nombre);
+END
